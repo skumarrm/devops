@@ -1,1 +1,2 @@
 select getdate();
+select current_timestamp();
